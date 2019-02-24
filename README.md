@@ -1,6 +1,6 @@
 **[most code of this project comes from "Implementing a CNN for Text Classification in Tensorflow" blog post.](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)**
 
-A bi-direction RNN class was added to the original code, so you can decide train your model with different neural network model.  
+A bi-direction RNN class was implemented,  so RNN is optional to train the model .   
 
 ## Requirements
 
