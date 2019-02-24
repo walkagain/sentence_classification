@@ -4,7 +4,7 @@ A bi-direction RNN class was implemented,  so RNN is optional to train the model
 
 ## Requirements
 
-- Python 3
+- Python 3.6
 - Tensorflow > 0.12
 - Numpy
 
